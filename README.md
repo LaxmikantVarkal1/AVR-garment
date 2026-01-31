@@ -9,7 +9,7 @@ A comprehensive dashboard for managing garment production workflows, designed to
 Authentication and data storage are securely managed using **Supabase**, enabling role-based login, real-time data updates, and reliable database handling.
 
 🔗 **Project URL**:  
-👉 [https://your-project-url-here](https://laxmikantvarkal1.github.io/AVR-garment/)
+👉 [https://laxmikantvarkal1.github.io/AVR-garment/](https://laxmikantvarkal1.github.io/AVR-garment/)
 
 ---
 
